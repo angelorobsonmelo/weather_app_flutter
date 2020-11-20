@@ -1,7 +1,7 @@
 class WeatherData {
   final String city;
   final String description;
-  final int temp;
+  final double temp;
   final String icon;
 
   WeatherData({this.city, this.description, this.temp, this.icon});
